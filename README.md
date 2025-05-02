@@ -7,5 +7,10 @@
 
 [個人簡報](https://autumn903.github.io/pro-mo/index.html)
 
+# 使用技術
+ * spyder
+ * github
+# 作者
+ 靜宜大學 資科系二A 
 
 
