@@ -5,7 +5,7 @@
 
 # 🌊專題報告
 
-[個人簡報](https://autumn903.github.io/pro-mo/)
+[個人網頁](https://autumn903.github.io/pro-mo/)
 
 # 🍹使用技術
  * spyder
